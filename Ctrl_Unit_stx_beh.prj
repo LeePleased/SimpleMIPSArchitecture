@@ -1,0 +1,2 @@
+verilog isim_temp "Ctrl_Unit.v"
+verilog isim_temp "F:/xilinx/installation/ISE_DS/ISE//verilog/src/glbl.v"

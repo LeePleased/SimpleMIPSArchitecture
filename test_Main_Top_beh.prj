@@ -1,0 +1,3 @@
+verilog work "Main_Top.v"
+verilog work "test_Main_Top.v"
+verilog work "F:/xilinx/installation/ISE_DS/ISE//verilog/src/glbl.v"

@@ -1,0 +1,33 @@
+Running: fuse.exe -relaunch -intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "F:/ComputerArchitecture-Lab/Simple-RISC/test_Main_Top_isim_beh.exe" -prj "F:/ComputerArchitecture-Lab/Simple-RISC/test_Main_Top_beh.prj" "work.test_Main_Top" "work.glbl" 
+ISim O.87xd (signature 0x2f00eba5)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Analyzing Verilog file "F:/ComputerArchitecture-Lab/Simple-RISC/Main_Top.v" into library work
+Analyzing Verilog file "F:/ComputerArchitecture-Lab/Simple-RISC/test_Main_Top.v" into library work
+Analyzing Verilog file "F:/xilinx/installation/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 159628 KB
+Fuse CPU Usage: 281 ms
+Compiling module Ctrl_Unit
+Compiling module Prog_Cnt
+Compiling module Instr_ROM
+Compiling module Instr_Split
+Compiling module Sign_Ext(IMME_SIZE=26)
+Compiling module Sign_Ext
+Compiling module MUX_2_1
+Compiling module MUX_2_1(DATA_SIZE=5)
+Compiling module Reg_File
+Compiling module Func_Sel
+Compiling module AL_Unit
+Compiling module Data_RAM
+Compiling module Main_Top
+Compiling module test_Main_Top
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 15 Verilog Units
+Built simulation executable F:/ComputerArchitecture-Lab/Simple-RISC/test_Main_Top_isim_beh.exe
+Fuse Memory Usage: 164940 KB
+Fuse CPU Usage: 358 ms

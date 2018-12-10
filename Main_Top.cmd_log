@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "F:/ComputerArchitecture-Lab/Simple-RISC/Main_Top.xst" -ofn "F:/ComputerArchitecture-Lab/Simple-RISC/Main_Top.syr" 

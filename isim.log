@@ -1,0 +1,35 @@
+ISim log file
+Running: F:\ComputerArchitecture-Lab\Simple-RISC\test_Main_Top_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb F:/ComputerArchitecture-Lab/Simple-RISC/test_Main_Top_isim_beh.wdb 
+ISim O.87xd (signature 0x2f00eba5)
+This is a Full version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+Stopped at time : 81 ns : File "F:/ComputerArchitecture-Lab/Simple-RISC/test_Main_Top.v" Line 45
+ISim O.87xd (signature 0x2f00eba5)
+This is a Full version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+Stopped at time : 79 ns : File "F:/ComputerArchitecture-Lab/Simple-RISC/test_Main_Top.v" Line 45
+ISim O.87xd (signature 0x2f00eba5)
+This is a Full version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+Stopped at time : 59 ns : File "F:/ComputerArchitecture-Lab/Simple-RISC/test_Main_Top.v" Line 45
+ISim O.87xd (signature 0x2f00eba5)
+This is a Full version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+Stopped at time : 60 ns : File "F:/ComputerArchitecture-Lab/Simple-RISC/test_Main_Top.v" Line 45
+ISim O.87xd (signature 0x2f00eba5)
+This is a Full version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+Stopped at time : 79 ns : File "F:/ComputerArchitecture-Lab/Simple-RISC/test_Main_Top.v" Line 45

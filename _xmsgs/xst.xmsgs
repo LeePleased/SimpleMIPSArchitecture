@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="info" file="Xst" num="0" delta="new" >Part-select index evaluated to out of bound value may lead to incorrect synthesis results; it is recommended not to use them in RTL
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="new" >"Ctrl_Unit.v" Line 36: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">1</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="new" >"Ctrl_Unit.v" Line 41: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">1</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="new" >"Ctrl_Unit.v" Line 45: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">1</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="new" >"Ctrl_Unit.v" Line 50: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">1</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="new" >"Ctrl_Unit.v" Line 55: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">1</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="new" >"Ctrl_Unit.v" Line 62: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">1</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="new" >"Ctrl_Unit.v" Line 66: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">1</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="new" >"Prog_Cnt.v" Line 37: Result of <arg fmt="%d" index="1">17</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">16</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1670" delta="new" >"Instr_ROM.v" Line 43: Signal &lt;<arg fmt="%s" index="1">rom_mem</arg>&gt; in initial block is partially initialized.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="189" delta="new" >"F:\ComputerArchitecture-Lab\Simple-RISC\Main_Top.v" Line 71: Size mismatch in connection of port &lt;<arg fmt="%s" index="3">i_a</arg>&gt;. Formal port size is <arg fmt="%d" index="2">32</arg>-bit while actual signal size is <arg fmt="%d" index="1">5</arg>-bit.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"F:\ComputerArchitecture-Lab\Simple-RISC\Main_Top.v" Line 76: Assignment to <arg fmt="%s" index="1">o_reg_k</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="189" delta="new" >"F:\ComputerArchitecture-Lab\Simple-RISC\Main_Top.v" Line 79: Size mismatch in connection of port &lt;<arg fmt="%s" index="3">i_a</arg>&gt;. Formal port size is <arg fmt="%d" index="2">32</arg>-bit while actual signal size is <arg fmt="%d" index="1">1</arg>-bit.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1670" delta="new" >"Data_RAM.v" Line 36: Signal &lt;<arg fmt="%s" index="1">memory</arg>&gt; in initial block is partially initialized.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="189" delta="new" >"F:\ComputerArchitecture-Lab\Simple-RISC\Main_Top.v" Line 87: Size mismatch in connection of port &lt;<arg fmt="%s" index="3">i_data</arg>&gt;. Formal port size is <arg fmt="%d" index="2">32</arg>-bit while actual signal size is <arg fmt="%d" index="1">5</arg>-bit.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="634" delta="new" >"F:\ComputerArchitecture-Lab\Simple-RISC\Main_Top.v" Line 79: Net &lt;<arg fmt="%s" index="1">o_data_k</arg>&gt; does not have a driver.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">f:/computerarchitecture-lab/simple-risc/main_top.v</arg>&quot; line <arg fmt="%d" index="2">42</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">CU</arg>&gt; of block &lt;<arg fmt="%s" index="4">Ctrl_Unit</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">Main_Top</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">f:/computerarchitecture-lab/simple-risc/main_top.v</arg>&quot; line <arg fmt="%d" index="2">49</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">PC</arg>&gt; of block &lt;<arg fmt="%s" index="4">Prog_Cnt</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">Main_Top</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">f:/computerarchitecture-lab/simple-risc/main_top.v</arg>&quot; line <arg fmt="%d" index="2">53</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">IR</arg>&gt; of block &lt;<arg fmt="%s" index="4">Instr_ROM</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">Main_Top</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">f:/computerarchitecture-lab/simple-risc/main_top.v</arg>&quot; line <arg fmt="%d" index="2">56</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">IS</arg>&gt; of block &lt;<arg fmt="%s" index="4">Instr_Split</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">Main_Top</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">f:/computerarchitecture-lab/simple-risc/main_top.v</arg>&quot; line <arg fmt="%d" index="2">60</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">SE_0</arg>&gt; of block &lt;<arg fmt="%s" index="4">Sign_Ext</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">Main_Top</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">f:/computerarchitecture-lab/simple-risc/main_top.v</arg>&quot; line <arg fmt="%d" index="2">63</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">SE_2</arg>&gt; of block &lt;<arg fmt="%s" index="4">Sign_Ext</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">Main_Top</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">f:/computerarchitecture-lab/simple-risc/main_top.v</arg>&quot; line <arg fmt="%d" index="2">66</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">MUX_IMME</arg>&gt; of block &lt;<arg fmt="%s" index="4">MUX_2_1</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">Main_Top</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">f:/computerarchitecture-lab/simple-risc/main_top.v</arg>&quot; line <arg fmt="%d" index="2">70</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">MUX_RK</arg>&gt; of block &lt;<arg fmt="%s" index="4">MUX_2_1</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">Main_Top</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">f:/computerarchitecture-lab/simple-risc/main_top.v</arg>&quot; line <arg fmt="%d" index="2">73</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">RF</arg>&gt; of block &lt;<arg fmt="%s" index="4">Reg_File</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">Main_Top</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">f:/computerarchitecture-lab/simple-risc/main_top.v</arg>&quot; line <arg fmt="%d" index="2">78</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">MUX_ALU_B</arg>&gt; of block &lt;<arg fmt="%s" index="4">MUX_2_1</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">Main_Top</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">f:/computerarchitecture-lab/simple-risc/main_top.v</arg>&quot; line <arg fmt="%d" index="2">82</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">ALU</arg>&gt; of block &lt;<arg fmt="%s" index="4">AL_Unit</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">Main_Top</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">f:/computerarchitecture-lab/simple-risc/main_top.v</arg>&quot; line <arg fmt="%d" index="2">86</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">DR</arg>&gt; of block &lt;<arg fmt="%s" index="4">Data_RAM</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">Main_Top</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">f:/computerarchitecture-lab/simple-risc/main_top.v</arg>&quot; line <arg fmt="%d" index="2">90</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">MUX_RI</arg>&gt; of block &lt;<arg fmt="%s" index="4">MUX_2_1</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">Main_Top</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">f:/computerarchitecture-lab/simple-risc/main_top.v</arg>&quot; line <arg fmt="%s" index="2">73</arg>: Output port &lt;<arg fmt="%s" index="3">o_data_k</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">RF</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="new" >Signal &lt;<arg fmt="%s" index="1">o_data_k</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
+</msg>
+
+</messages>
+
